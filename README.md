@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/YlPLH1w.jpg)](https://jchurch133.io)
 <h1 align="center">Hi 👋, I'm Jesse Churchill ☺</h1>
 <h3 align="center">An aspiring Cloud Engineer/Programmer</h3>
-<img align="right" width="400" src="https://i.imgur.com/1uaQg5i.jpg" alt="Computer, Raining">
+<img align="right" width="400" src="https://i.imgur.com/Cyxh8xK.gif" alt="Computer, Raining">
 
 - 🌱 I’m currently learning **AWS architecture, Python**
 
