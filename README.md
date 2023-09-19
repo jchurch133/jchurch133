@@ -1,13 +1,13 @@
 [![MasterHead](https://i.imgur.com/YlPLH1w.jpg)](https://jchurch133.io)
 <h1 align="center">Hi 👋, I'm Jesse Churchill ☺</h1>
-<h3 align="center">An aspiring Cloud Engineer/Programmer</h3>
+<h3 align="center">An aspiring Cloud Engineer/Architect</h3>
 <img align="right" width="400" src="https://i.imgur.com/Cyxh8xK.gif" alt="Computer, Raining">
 
-- 🌱 I’m currently learning **AWS architecture, Python**
+- 🌱 I’m currently learning **Terraform, Kubernetes, and Python**
 
-- 🤝 I’m looking for help with **Building a complex AWS Infrastructure**
+- 🤝 I’m looking for **Opportunities to work on complex Infrastructure**
 
-- 💬 Ask me about **AWS Services**
+- 💬 Ask me about **AWS Services, Terraform, and Bash scripting**
 
 - 📫 How to reach me **jchurch133@gmail.com**
 
