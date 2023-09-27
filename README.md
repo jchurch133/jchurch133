@@ -3,15 +3,15 @@
 <h3 align="center">An aspiring Cloud Engineer/Architect</h3>
 <img align="right" width="400" src="https://i.imgur.com/Cyxh8xK.gif" alt="Computer, Raining">
 
-- 🌱 I’m currently learning **Terraform, Kubernetes, and Python**
+- 🌱 I’m currently learing **Terraform, Kubernetes, and Security**
 
 - 🤝 I’m looking for **Opportunities to work on complex Infrastructure**
 
-- 💬 Ask me about **AWS Services, Terraform, and Bash scripting**
+- 💬 Ask me about **AWS, Terraform, Bash scripting, and Python**
 
 - 📫 How to reach me **jchurch133@gmail.com**
 
-- ⚡ Fun fact **I ask a billion questions and love deep conversations.**
+- ⚡ Fun fact **I love asking questions and having deep conversations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
