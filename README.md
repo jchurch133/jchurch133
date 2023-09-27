@@ -5,15 +5,15 @@
 
 - 👨‍💻 All of my projects are available at: [my_github_repositories](https://github.com/jchurch133?tab=repositories)
 
-- 🔭 Currently working on: **Terraform, Kubernetes, and Python.**
+- 🔭 Currently working on: **Terraform, Kubernetes, and Python**
 
-- 🌱 Studying for the: **Comp TIA Security+ Certification.**
+- 🌱 Studying for the: **Comp TIA Security+ Certification**
 
-- 🤝 Looking for: **Opportunities to work on complex Infrastructure.**
+- 🤝 Looking for: **Opportunities to work on complex Infrastructure**
 
-- 💬 Ask me about: **AWS, Terraform, Bash scripting, and Python.**
+- 💬 Ask me about: **AWS, Terraform, Bash scripting, and Python**
 
-- ⚡ Fun fact: **I love asking questions and having deep conversations.**
+- ⚡ Fun fact: **I love asking questions and having deep conversations**
 
 - 📫 How to reach me: **jchurch133@gmail.com**
 
