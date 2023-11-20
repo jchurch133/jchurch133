@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I love asking questions and having deep conversations**
 
-- 📫 How to reach me: **jchurch133@gmail.com**
+- 📫 How to reach me: **jcoding253@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
