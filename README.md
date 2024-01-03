@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Cloud Engineer/Architect</h3>
 <img align="right" width="400" src="https://i.imgur.com/Cyxh8xK.gif" alt="Computer, Raining">
 
-- 👨‍💻 All of my projects are available at: [my_github_repositories](https://github.com/jchurch133?tab=repositories)
+- 👨‍💻 All of my projects are available at: [my_github_repositories](https://github.com/jcoding253?tab=repositories)
 
 - 🔭 Currently working on: **Terraform, Kubernetes, and Python**
 
